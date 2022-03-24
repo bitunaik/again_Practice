@@ -6,6 +6,7 @@ public class MrinPractice {
 	@Test
 	public void practice() {
 		System.out.println("practicing pull request");
+		
 	}
 
 }
