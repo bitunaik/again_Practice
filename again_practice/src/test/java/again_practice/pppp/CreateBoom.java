@@ -7,6 +7,7 @@ public class CreateBoom {
 public void boom() {
 	System.out.println("boom boom");
 	System.out.println("cahnge----> It's change ");
+	System.out.println("conflict");
 	//comment added
 }
 }
