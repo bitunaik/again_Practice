@@ -6,5 +6,6 @@ public class Solve {
 @Test
 public void m() {
 	System.out.println("boom");
+	System.out.println("      ");
 }
 }
