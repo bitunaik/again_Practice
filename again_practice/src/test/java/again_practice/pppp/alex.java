@@ -6,6 +6,7 @@ public class alex {
 	@Test
 	public void ele() {
 		System.out.println("hey man");
+		System.out.println("conflict resolved");
 	}
 
 }
