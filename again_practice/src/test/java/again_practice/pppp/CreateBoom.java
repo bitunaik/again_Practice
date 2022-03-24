@@ -10,13 +10,14 @@ public void boom() {
 	System.out.println("mater ");
 	
 	
-	
-	
-	
-	
-	
-	
-	
+	System.out.println("Shaktimaannnnnn...");
 	//comment added
+	System.out.println("dekh bhai change ho gya");
+	System.out.println("dekh bhai dubara kr gya");
+	
+	System.out.println("paresaan ho gaya hu");
+		
+	
+		
 }
 }
