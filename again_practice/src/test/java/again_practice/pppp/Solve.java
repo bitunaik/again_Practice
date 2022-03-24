@@ -8,14 +8,6 @@ public void m() {
 	System.out.println("boom");
 	
 	System.out.println("bhai ho- raha hai");
-
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	
